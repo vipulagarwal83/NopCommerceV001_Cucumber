@@ -1,5 +1,6 @@
 Feature: Login
 
+ 
 @sanity
 Scenario: Successful Login with Valid Credentials
     Given User Launch Chrome browser
